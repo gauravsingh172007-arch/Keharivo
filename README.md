@@ -1,5 +1,15 @@
 # Keharivo
 
+## Screenshots
+
+### Desktop
+
+![Keharivo desktop storefront](public/keharivo-desktop.png)
+
+### Mobile
+
+![Keharivo mobile storefront](public/keharivo-mobile.png)
+
 ## Run the storefront
 
 In the project root, install the frontend dependencies and start Vite:
